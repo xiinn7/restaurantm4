@@ -1,0 +1,42 @@
+[
+  {
+    "cid": 1,
+    "name": "All",
+    "size": null,
+    "remote_url": "https://i.ibb.co/bLNXNBh/gallery00.png",
+    "local_url": "/img/homepage/hats.png",
+    "link_url": "/shop/hats"
+  },
+  {
+    "cid": 2,
+    "name": "Awesome",
+    "size": null,
+    "remote_url": "https://i.ibb.co/FgmWjr1/gallery04.png",
+    "local_url": "/img/homepage/jackets.png",
+    "link_url": "/shop/jackets"
+  },
+  {
+    "cid": 3,
+    "name": "Responsive",
+    "size": null,
+    "remote_url": "https://i.ibb.co/qNKy9DN/gallery01.png",
+    "local_url": "/img/homepage/sneakers.png",
+    "link_url": "/shop/sneakers"
+  },
+  {
+    "cid": 4,
+    "name": "Creative",
+    "size": "large",
+    "remote_url": "https://i.ibb.co/7bCxhbW/gallery02.png",
+    "local_url": "/img/homepage/womens.png",
+    "link_url": "/shop/womens"
+  },
+  {
+    "cid": 5,
+    "name": "Animated",
+    "size": "large",
+    "remote_url": "https://i.ibb.co/cNWxnRX/gallery03.png",
+    "local_url": "/img/homepage/mens.png",
+    "link_url": "/shop/mens"
+  }
+]
